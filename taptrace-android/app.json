@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "TAPTRACE",
+    "slug": "taptrace",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#08111F"
+    },
+    "android": {
+      "package": "com.taptrace.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#08111F"
+      }
+    }
+  }
+}
